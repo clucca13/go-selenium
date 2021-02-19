@@ -15,7 +15,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/drone-demos/drone-go-selenium/server"
+	"github.com/clucca13/go-selenium/server"
 )
 
 func main() {
